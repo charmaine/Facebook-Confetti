@@ -1,7 +1,7 @@
 # Facebook-Heart-Beat
 
-User style to animate Facebook Love Reaction.
+User style to animate Facebook's Like Reaction
 
-![alt text](https://i.imgur.com/E16Zk7T.gif)
+![alt text](https://media.giphy.com/media/qODledw44GawE/giphy.gif)
 
-You can user Tampermonkey for Google Chrome 
+Turn likes into confetti canons
