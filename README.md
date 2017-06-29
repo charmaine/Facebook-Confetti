@@ -1,4 +1,4 @@
-# Facebook-Heart-Beat
+# Facebook-Confetti
 
 User style to animate Facebook's Like Reaction
 
